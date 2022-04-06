@@ -1,5 +1,5 @@
 app_url=""
-
+voice_model=0
 import os
 import speech_recognition as sr
 
